@@ -1,0 +1,15 @@
+.default {
+    background-color: blue;
+}
+.success {
+    background-color: green;
+}
+.danger {
+    background-color: red;
+}
+.warning {
+    background-color: yellow;
+}
+.info {
+    background-color: skyblue;
+}

@@ -1,0 +1,9 @@
+.myComponent {
+    text-align: center;
+}
+.myComponent h1{
+    color: red;
+}
+.myComponent p {
+    color: green;
+}
