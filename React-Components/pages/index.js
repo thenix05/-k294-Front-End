@@ -5,6 +5,7 @@ import Header from "../components/Header";
 import Footer from "../components/Footer";
 import Navigation from "../components/Navigation";
 import WordReverser from "../components/wordreverser"
+import ShoppingList from "./shoppingList";
 export default function IndexPage() {
 
   const people = ["Ruven", "David", "Yves"];
@@ -25,6 +26,7 @@ export default function IndexPage() {
       ]}></Navigation>
       <ul>{listItems}</ul>
       <WordReverser></WordReverser>
+      <ShoppingList></ShoppingList>
       <br />
     </div>
   );
